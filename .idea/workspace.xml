@@ -1,12 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe2d66ae-d530-4527-9c1a-c5e9d67e2f5b" name="Default" comment="">
+    <list default="true" id="75736bca-1478-49a4-a955-c04f72a15440" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/feixun/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/linkedList/MinOfStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/recursion/CommonSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/recursion/Factorial.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/recursion/Fibonacci.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/recursion/GcdAndLcm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/recursion/Hanio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/recursion/MonkeyEatFruit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/recursion/Power.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/sort/BubbleSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/sort/InsertSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/sort/MergeSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/sort/QuickSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/algorithm/sort/SelectSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/exceptions/InvalidNodeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/exceptions/OutOfBoundaryException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/exceptions/QueueEmptyException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/exceptions/StackEmptyException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/exceptions/UnsupportOperation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/exercise/BracketCheck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/exercise/DecToOcto.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/exercise/Maze.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/AbstractGraph.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/BinTreeLinked.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/BinTreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/DLNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/DirectGraph.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/Edge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/HuffmanTreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/LineList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/LinkedListDLNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/LinkedListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/LinkedListSLNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/QueueArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/QueueSLinked.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/SLNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/StackArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/StackSLinked.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/UndirectedGraph.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/implement/Vertex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/interfaces/BinTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/interfaces/Graph.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/interfaces/Iterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/interfaces/LinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/interfaces/List.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/interfaces/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/interfaces/Queue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/interfaces/Stack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/interfaces/Strategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/interfaces/TreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/myUtil/Log.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/BinTreeLinkedTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/BinTreeTraverse2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/DLLinkedListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/HuffmanTreeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/LineListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/LinkedListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/QueueLineTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/QueueLinkedTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/StackLineTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/StackSLinkedTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/StringStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/StudentStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/datastruct/datastruct/test/TestMinofStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/study/baodian/basic/pkg4_10_5/sync/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/study/baodian/basic/pkg4_10_5/sync/SyncObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/study/baodian/basic/pkg4_10_5/sync/SyncTest01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/study/baodian/basic/pkg4_10_5/sync/SyncTest02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/study/baodian/basic/pkg4_10_5/sync/SyncTest03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/study/baodian/basic/pkg4_10_5/sync/SyncTest04.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/study/baodian/basic/pkg4_10_5/wait_notify/WaitAndNotify.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/AdjustList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/AdjustList_L.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WE.iml" afterPath="$PROJECT_DIR$/WE.iml" />
     </list>
     <ignored path="WE.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/bin/" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,35 +97,17 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DatabaseView">
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="WE" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zhongruanrongxing/Main1.java">
+      <file leaf-file-name="AdjustList_L.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/AdjustList_L.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zhongruanrongxing/Main2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state relative-caret-position="109">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -57,79 +118,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="chmodke &lt;kehao1158115@outlook.com&gt;" />
-      </list>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/p2_SimpleFactory/ConcreteProduct1.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/p2_SimpleFactory/ConcreteProduct2.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/p2_SimpleFactory/SendFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/p2_SimpleFactory/FactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/p2_SimpleFactory/MailSender.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/p2_StaticFactory/FactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/p2_StaticFactory/SendFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/p2_FactoryMethod/FactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/p2_FactoryMethod/SendFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/FactoryMethod_FactoryMethod/FactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/FactoryMethod/FactoryMethod_FactoryMethod/FactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/FactoryMethod/factoryMethod/FactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/FactoryMethod/factoryMethod/SendFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/pag7/FactoryMethod/staticFactory/SendFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/Sender.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/MailSender.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/SmsSender.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/twoPowerCar.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/BeiDouNavigator.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/GPSNavigator.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/SendMailFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/SendSmsFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/GpsCarFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/BeiDouCarFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/TwoPowerCar.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/FourPowerCar.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/Car.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/Provider.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/BDTwoPowerCarFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/GpsFourPowerCarFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/GpsTwoPowerCarFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/BDFourPowerCarFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/FactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/Navigator.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/designPattern/AbstractFactory/PowerCar.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/Test4_9_2.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/basic/Test4_1_13.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/TestReference.java" />
-        <option value="$PROJECT_DIR$/src/test/study/baodian/basic/Test4_4_3.java" />
-        <option value="$PROJECT_DIR$/src/study/baodian/basic/Test4_4_3.java" />
-        <option value="$PROJECT_DIR$/src/study/baodian/basic/Test4_6_1.java" />
-        <option value="$PROJECT_DIR$/src/study/baodian/basic/Test.java" />
-        <option value="$PROJECT_DIR$/src/study/baodian/basic/Test4_6_1_2.java" />
-        <option value="$PROJECT_DIR$/src/study/baodian/basic/Test4_6_1_4.java" />
-        <option value="$PROJECT_DIR$/src/study/baodian/basic/Test4_6_1_5.java" />
-        <option value="$PROJECT_DIR$/src/study/baodian/basic/Test4_6_3.java" />
-        <option value="$PROJECT_DIR$/src/study/baodian/basic/Test4_6_1_3.java" />
-        <option value="$PROJECT_DIR$/src/study/baodian/basic/pkg4_7_3/Server.java" />
-        <option value="$PROJECT_DIR$/src/study/baodian/basic/pkg4_7_3/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/zhongruanrongxing/Main1.java" />
-        <option value="$PROJECT_DIR$/src/com/zhongruanrongxing/Main2.java" />
-      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -141,12 +139,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
+        <option name="mavenHome" value="D:/Programs/ApacheSoftware/apache-maven-3.3.9" />
       </MavenGeneralSettings>
     </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -179,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -226,153 +222,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zhongruanrongxing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="js-jscs-nodeInterpreter" value="d:\programfiles\nodejs\node.exe" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="test.study.baodian.designPattern.AbstractFactory" />
-      <recent name="test.study.baodian.pag7.p2_StaticFactory" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Workspaces\IntelliJIDEA\WE\src\test\study\baodian\designPattern\AbstractFactory" />
-      <recent name="F:\Workspaces\IntelliJIDEA\WE\src\test\study\baodian\pag7\p2_FactoryMethod" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration default="false" name="Test4_6_1_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="study.baodian.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="study.baodian.basic.Test4_6_1_5" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="WE" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="study.baodian.basic.pkg4_7_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="study.baodian.basic.pkg4_7_3.Server" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="WE" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="study.baodian.basic.pkg4_7_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="study.baodian.basic.pkg4_7_3.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="WE" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.zhongruanrongxing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.zhongruanrongxing.Main1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="WE" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.Item23.test">
     <configuration default="false" name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -391,6 +256,52 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="WE" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.feixun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.feixun.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WE" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Item23.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="train.niuke.jianzhiOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="WE" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="train.niuke.jianzhiOffer" />
+      <option name="MAIN_CLASS_NAME" value="train.niuke.jianzhiOffer.Item23" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -715,9 +626,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -804,39 +712,22 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test4_6_1_5" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Server" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Client" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main1" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main2" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Item23.test" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main1" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Client" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Server" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test4_6_1_5" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Item23.test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -845,76 +736,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fe2d66ae-d530-4527-9c1a-c5e9d67e2f5b" name="Default" comment="" />
-      <created>1474642134054</created>
+      <changelist id="75736bca-1478-49a4-a955-c04f72a15440" name="Default" comment="" />
+      <created>1476802400775</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1474642134054</updated>
-      <workItem from="1474642141612" duration="531000" />
-      <workItem from="1474642724807" duration="115000" />
-      <workItem from="1474642859460" duration="2620000" />
-      <workItem from="1474645515121" duration="903000" />
-      <workItem from="1474677106529" duration="2703000" />
-      <workItem from="1474705639259" duration="12947000" />
-      <workItem from="1474765458904" duration="11172000" />
-      <workItem from="1474854608238" duration="228000" />
-      <workItem from="1474867201821" duration="18351000" />
-      <workItem from="1474944467971" duration="2707000" />
-      <workItem from="1474987395971" duration="961000" />
-      <workItem from="1475119565945" duration="8468000" />
-      <workItem from="1475151192197" duration="8640000" />
-      <workItem from="1475200050462" duration="8965000" />
-      <workItem from="1475251552602" duration="984000" />
-      <workItem from="1475719166704" duration="2854000" />
-      <workItem from="1475725399387" duration="5926000" />
-      <workItem from="1475816351934" duration="910000" />
-      <workItem from="1475902747990" duration="2107000" />
-      <workItem from="1475904871830" duration="14000" />
+      <updated>1476802400775</updated>
+      <workItem from="1476802406268" duration="291000" />
+      <workItem from="1476802853305" duration="431000" />
+      <workItem from="1476848759069" duration="1373000" />
+      <workItem from="1476871764659" duration="21000" />
+      <workItem from="1476872977315" duration="1301000" />
+      <workItem from="1476919049026" duration="98000" />
     </task>
-    <task id="LOCAL-00001" summary="中软融鑫笔试">
-      <created>1475904195274</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1475904195274</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Item17_test - 2016.09.26 at 21h 57m 01s.xml">
-      <configuration name="Item17.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Item23_test - 2016.09.26 at 21h 30m 22s.xml">
-      <configuration name="Item23.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Item23_test - 2016.09.26 at 21h 30m 52s.xml">
-      <configuration name="Item23.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Item23_test - 2016.09.26 at 21h 32m 05s.xml">
-      <configuration name="Item23.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Item23_test - 2016.09.26 at 21h 37m 06s.xml">
-      <configuration name="Item23.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Item23_test - 2016.09.26 at 21h 39m 40s.xml">
-      <configuration name="Item23.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Item23_test - 2016.09.26 at 21h 40m 07s.xml">
-      <configuration name="Item23.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Item23_test - 2016.09.26 at 21h 40m 09s.xml">
-      <configuration name="Item23.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Item23_test - 2016.09.26 at 21h 40m 23s.xml">
-      <configuration name="Item23.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Item23_test - 2016.09.26 at 21h 47m 29s.xml">
+    <history-entry file="Item23_test - 2016.10.18 at 22h 58m 08s.xml">
       <configuration name="Item23.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92106000" />
+    <option name="totallyTimeSpent" value="3515000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -926,53 +768,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24276528" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24276528" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3376206" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.204236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2677761" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18986385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5418006" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1860817" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15355521" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3392283" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -985,14 +809,8 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="中软融鑫笔试" />
-    <option name="LAST_COMMIT_MESSAGE" value="中软融鑫笔试" />
-  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="15" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1000,427 +818,82 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/AdjustList_L.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/AdjustList_L.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/AdjustList_L.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/train/niuke/jianzhiOffer/Item23.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/study/baodian/pag7/p1/Test2.java" />
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/NULL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/FactoryMethod/simpleFactory/Sender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/FactoryMethod/simpleFactory/MailSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/FactoryMethod/simpleFactory/SendFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/FactoryMethod/simpleFactory/FactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/study/baodian/pag7/p2_FactoryMethod/SmsSender.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/study/baodian/pag7/p2_FactoryMethod/Sender.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/study/baodian/pag7/p2_FactoryMethod/MailSender.java" />
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/FactoryMethod/simpleFactory/SmsSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/FactoryMethod/staticFactory/FactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/FactoryMethod/factoryMethod/FactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/FactoryMethod/factoryMethod/SendFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/FactoryMethod/staticFactory/SendFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/BDNavigator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/TwoPowerCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/FourPowerCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/BDTwoPowerCarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/GpsTwoPowerCarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/GpsFourPowerCarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/BDFourPowerCarFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/Navigator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/GPSNavigator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/FactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/Provider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/AbstractFactory/PowerCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/ProgramFiles/Java/jdk1.7.0_80/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/ProgramFiles/Java/jdk1.7.0_80/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="257" column="29" selection-start-line="257" selection-start-column="29" selection-end-line="257" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/ProgramFiles/Java/jdk1.7.0_80/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="860" column="5" selection-start-line="860" selection-start-column="5" selection-end-line="860" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_9_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_3_4.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_1_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_1_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/Test29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_4_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_3_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_6_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_6_1_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_6_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_6_1_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_6_1_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/Test4_6_1_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/pkg4_7_3/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/basic/pkg4_7_3/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/singleton/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/singleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/study/baodian/designPattern/DesignPattern.oob">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zhongruanrongxing/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastruct/algorithm/recursion/CommonSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zhongruanrongxing/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/feixun/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jingdong/Item01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-691">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/train/niuke/jianzhiOffer/Item23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.6</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>WE</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.6</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/src/test/Test01.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/AdjustList_L.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
